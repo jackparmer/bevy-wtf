@@ -1,5 +1,3 @@
-Assets: https://drive.google.com/drive/folders/1TOLvgLSSKlbWKMCYt2OY4ZS96APyfyn1?usp=sharing
-
 - Figure out how to import world assets as GLTF files.
 - Import a starship and a procedurally-generated glacier. 
 - Add an underwater world 🏊 and jetpack animation
@@ -8,6 +6,9 @@ Assets: https://drive.google.com/drive/folders/1TOLvgLSSKlbWKMCYt2OY4ZS96APyfyn1
 - Protagonist can drop a blinking beacon - maybe part of a later story element?
 
 Still no story but the world is more interesting and has an aesthetic direction.
+
+[Assets folder](https://drive.google.com/drive/folders/1TOLvgLSSKlbWKMCYt2OY4ZS96APyfyn1?usp=sharing
+)
 
 ## jet packing
 
